@@ -78,4 +78,4 @@ jupyter notebook misinformation_detection_africa.ipynb
 ---
 
 **Author:** Pantouin Adjinsala · University Lecturer & Civic Tech Contributor, AfricTivistes CitizenLab Cameroon  
-**Part of:** [AI for Social Good portfolio](https://github.com/YOUR_USERNAME)
+**Part of:** [AI for Social Good portfolio](https://github.com/P-Adjinsala/padjinsala)
